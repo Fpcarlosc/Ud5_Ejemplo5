@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ud5_Ejemplo5</string>
+    <string name="texto">Texto:</string>
+    <string name="abrir">Abrir</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
